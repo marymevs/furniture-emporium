@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+
+article {
+  background-color: white;
+  border-radius: 10px;
+  width: 325px;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  background-color: green;
+  width: 325px;
+  height: 30px;
+  color: white;
+  border-style: none; /*removes weird beveling*/
+  border-radius: 10px;
+}
+
+.new-price {
+  font-size: 30px;
+  color: green;
+}
+
+.old-price {
+  font-size: 16px;
+  color: darkgray;
+}
